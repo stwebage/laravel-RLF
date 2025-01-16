@@ -3,7 +3,7 @@
         <div class="card my-5">
             <div class="card-body">
                 <div class="text-center mb-3">
-                    <a href="{{route('login')}}"><img src="{{asset('/vendor/LaravelRlf/images/logo/svs-logo.webp')}}" alt="SVS logo" width="168"></a>
+                    <a href="{{route('login')}}"><img src="{{asset('/vendor/LaravelRlf/images/logo/logo.webp')}}" alt="SVS logo" width="168"></a>
                 </div>
                 <h4 class="text-center f-w-500 mb-3">Форма регистрации нового пользователя</h4>
                 <div class="mb-3 row">
