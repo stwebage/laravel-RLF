@@ -2,7 +2,7 @@
     "name": "sm-net/laravel-rlf",
     "description": "Login register forgot system",
     "license": "MIT",
-    "version": "v1.0.0",
+    "version": "v1.0.2",
     "autoload": {
         "psr-4": {
             "SmNet\\LaravelRlf\\": "src/"
