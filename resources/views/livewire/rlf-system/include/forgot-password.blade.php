@@ -2,7 +2,7 @@
         <div class="card my-5 col-11 col-md-8 col-lg-6 col-xl-4 my-5">
             <div class="card-body">
                 <div class="text-center mb-3">
-                    <a href="{{route('login')}}"><img src="{{asset('/vendor/LaravelRlf/images/logo/logo.webp')}}" alt="SVS logo" width="168"></a>
+                    <a href="{{route('login')}}"><img src="{{asset('/vendor/LaravelRlf/images/logo/svs-logo.webp')}}" alt="SVS logo" width="168"></a>
                 </div>
                 <h4 class="text-center f-w-500 mb-3">Восстановить пароль</h4>
                 @if(!$this->newPasswordStatus)
